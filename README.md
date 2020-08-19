@@ -6,7 +6,7 @@
 
 In this lab, you'll create a digital fidget toy - it will use functional components that store state. In the same way that real fidget spinners and fidget cubes have moveable parts that don't do much, this app won't do anything other than give some fun visual responses when the user clicks buttons, types words, and selects colors.
 
-Check out the [finished app](https://react-state-lab.herokuapp.com/) to see what you'll be building.
+Check out the [finished app](https://fidget-tiles-solution.netlify.app/) to see what you'll be building.
 
 ## Getting Started
 
